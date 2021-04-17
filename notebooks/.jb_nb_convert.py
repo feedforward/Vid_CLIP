@@ -1,0 +1,1 @@
+c.NbConvertApp.notebooks = ["activity_proposal_classification_top_retrivals.ipynb"]
