@@ -1,1 +1,1 @@
-c.NbConvertApp.notebooks = ["activity_proposal_classification_top_retrivals.ipynb"]
+c.NbConvertApp.notebooks = ["frame_to_npz_clip_validation.ipynb"]
