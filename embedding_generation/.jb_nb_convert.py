@@ -1,0 +1,1 @@
+c.NbConvertApp.notebooks = ["frame_to_npz_clip.ipynb"]
